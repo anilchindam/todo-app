@@ -1,0 +1,11 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.mt10 {
+	margin-top: 10px;
+}
+.mb10 {
+	margin-bottom: 10px;
+}
